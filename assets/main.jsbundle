@@ -75448,7 +75448,7 @@ __d('Plate28/js/components/Config.js',[],function(global, require, requireDynami
 
 
 var Config=module.exports = {
-VERSION:'0.2'};
+VERSION:'0.3'};
 });
 __d('image!food',[],function(global, require, requireDynamic, requireLazy, module, exports) {  module.exports = {"__packager_asset":true,"isStatic":true,"path":"/Users/ec/devel/hg2/plate28/iOS/Images.xcassets/food.imageset/food.png","uri":"food","width":50,"height":50,"deprecated":true};
 });
